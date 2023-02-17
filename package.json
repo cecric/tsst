@@ -1,0 +1,24 @@
+{
+  "name": "tsst",
+  "version": "0.0.0",
+  "description": "TypeScript unit teST library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cecric/tsst.git"
+  },
+  "keywords": [
+    "test",
+    "typescript",
+    "ts"
+  ],
+  "author": "cecric",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cecric/tsst/issues"
+  },
+  "homepage": "https://github.com/cecric/tsst#readme"
+}
